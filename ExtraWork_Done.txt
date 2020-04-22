@@ -1,0 +1,10 @@
+CONTROL:
+Left and right directional keys
+To exit do Alt + Tab --> Right click to the game and "Close"
+
+EXTRA:
+- Added music
+- Changed SheepDropper sound effect to a one that I found on the internet
+- Added hay hale model with some animation
+- Got some smooth effects with the second tutorial
+
